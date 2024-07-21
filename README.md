@@ -1,5 +1,4 @@
 <h1 align="left">Hi 👋, I'm Wenjun Ji</h1>
-<h3 align="left">An undergraduate student🤓 at Nankai University</h3>
 🏫 I’m currently a junior student in Nankai University, 🇨🇳, majoring in software engineering
 
 **Researching in the field of computer vision**

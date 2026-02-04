@@ -3,4 +3,4 @@
 
 **Researching in the field of computer vision, especially in the area of COD (Camouflaged Object Detection) and AI security**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wenjun-ji&show_icons=true&locale=en" alt="wenjun-ji" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
